@@ -2,9 +2,6 @@
 
 This is the first file in this repo. 
 
-##Ipsum Below
+##Website Contents
 
-Hello my name is Jamie
-
-
-again
+1. index.html
